@@ -3,9 +3,10 @@ permalink: /pres/
 title: "Presentations"
 ---
 <hr>
-<b>Links will take you to NASA ADS to view the abstract. Links are active as soon as the abstract is uploaded after the conference.</b>
+<b>Links will take you to view the abstract.</b>
 
- 
+<a href="https://solarorbiter.sciencesconf.org/resource/page/id/7"> Solar Orbiter School 2022, S&egrave;te, France : "Investigations in Submerged Acoustic Sources " </a> 
+
 TESS 2022 Meeting: "'Transient Acoustic Emission from a Source Submerged Beneath Solar Flare'" 
 
   
