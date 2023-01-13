@@ -2,8 +2,11 @@
 permalink: /assure21/
 title: "ASSURE REU at SSL"
 sidebar:
-    title: "Projects"
-    nav: sidebar-projects
+    title: "Affiliations"
+    nav: sidebar-Affiliations
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/splash_banner.jpg
 classes: wide
 ---
 
@@ -41,14 +44,15 @@ Undergraduate Research Experiences</h2>
 In 2021, <a href="https://multiverse.ssl.berkeley.edu/ASSURE">ASSURE</a>, an REU (Research Opportunities for Undergraduates) hosted by SSL, was selected for funding and accepted its first cohort since 2017. The cohort was chosen to prioritize first-generation, community college, and otherwise underrepresented students. For ten weeks, we had ten students pair up with a research scientist at SSL or Stanford (through COFFIES). Although COVID restricted much of the in-person aspect, an on-campus poster session was held on the outdoor patio of the building. Students were also able to attend AGU#21 in New Orleans, LA. 
 <br>
 <br>
-As of February 2022, ASSURE was selected to run again in Summer 2022. SSL looks forward to welcoming the next cohort of students to the lab! 
+In February 2022, ASSURE was selected to run again in the following Summer. This cohort presented at Winter AGU in Chicago. Currently we are preparing for ASSURE 2023's cohort.   
 <br>
 <br>
 In determining the REUs programming, I encouraged the use of programming tutorials, support for developing research paper comprehension skills, and other skills I found lacking in my peers and my curriculum. I also supported the REU by serving as a member on relevant panels and a "discussion starter" in some of our planned lunchtime discussions. 
 
-</div> 
-
+<hr>
+If you are interested in applying, or learning more about the REU - <a href="https://multiverse.ssl.berkeley.edu/ASSURE">please click here</a>. Note that applications usually open in mid January. 
 <br>
+</div> 
 
 <br>
 

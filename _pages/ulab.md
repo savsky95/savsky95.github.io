@@ -2,8 +2,11 @@
 permalink: /ulab/
 title: "ULAB"
 sidebar:
-    title: "Projects"
-    nav: sidebar-projects
+    title: "Affiliations"
+    nav: sidebar-Affiliations
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/splash_banner.jpg
 classes: wide
 ---
 
@@ -28,7 +31,9 @@ classes: wide
   img {  
     width: 350px; 
     float: left; 
-    margin-right: 10px; 
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 5px;
   } 
 </style> 
  
@@ -46,16 +51,10 @@ During my junior year, I served as a mentor to three sophomore students, leverag
 </div> 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-    <hr width="100%"
-        size="10"
-        align="center">
-
+<hr width="100%"
+    size="10"
+    align="center">
+ 
  
 </body>
 </html>

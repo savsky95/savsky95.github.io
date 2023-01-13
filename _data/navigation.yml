@@ -3,12 +3,12 @@ main:
   #   url: /posts/
   - title: "Home"
     url: /home/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /pubs/
-  - title: "Presentations"
-    url: /pres/
+  - title: "Research"  
+    url: /research/ 
+  - title: "Publications and Presentations"
+    url: /pubNpres/
+  - title: "Outreach" 
+    url: /outreach/ 
   - title: "About"
     url: /about/
   - title: "Contact"
@@ -28,6 +28,34 @@ sidebar-projects:
   - title: "Past Projects"
     children:
       - title: "REU: ASSURE 2021 "
+        url: /assure21/
+      - title: "ULAB at UC Berkeley"
+        url: /ulab/
+
+sidebar-Research:
+  - title: "Current Projects"
+    children:
+      - title: "FOXSI-4 Sounding Rocket"
+        url: /foxsi4/
+      - title: "Sunquakes and Computational Helioseismic Holography"
+        url: /sunquakes/
+      - title: "PADRE CubeSat"
+        url: /padre/
+      - title: "COFFIES Helioseismology"
+        url: /coffies_research/
+
+sidebar-Affiliations:
+  - title: "Current Projects"
+    children:
+      - title: "AAS Solar Physics Division's Education and Pubic Outreach Comittee"
+        url: /AASspdEPO/
+      - title: "REU: COFFIES 2023 "
+        url: /COFFIES23/
+      - title: "COFFIES DEIA and Effectiveness"
+        url: /coffies_outreach/
+  - title: "Past Projects"
+    children:
+      - title: "REU: ASSURE 2021-2022 "
         url: /assure21/
       - title: "ULAB at UC Berkeley"
         url: /ulab/

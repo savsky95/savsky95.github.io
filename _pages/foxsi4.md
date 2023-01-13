@@ -2,8 +2,11 @@
 permalink: /foxsi4/
 title: "FOXSI-4"
 sidebar:
-    title: "Projects"
-    nav: sidebar-projects
+    title: "Research"
+    nav: sidebar-Research
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/splash_banner.jpg
 classes: wide
 ---
 
@@ -26,7 +29,9 @@ classes: wide
   img {  
     width: 350px; 
     float: left; 
-    margin-right: 10px; 
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 5px;
   } 
 </style> 
  
@@ -49,10 +54,14 @@ classes: wide
 <img src="/assets/images/foxsi_detector.png" alt=" logo " style="float: right; margin-right: 15px;">
 <div> 
  
- 
-  <br>For FOXSI-4, I work on the Quad-Timepix3 detector, which will be one of many detectors positioned on the rocket. Hard X-ray detectors for solar physics are essential as high energy solar activity--such as flares--will emit X-rays. As a junior specialist working on these detectors, my responsibility includes characterization and calibration, PCB development, design, and delivering a working assembly to be fixed to the rocket's focal plane. I work primarily in python, developing software to read and visualize data. Control of the detector's data acquisition is scripted in both python and C/C++. When designing mechanical and electrical components, I heavily utilize open-source engineering software such as KiCAD or pspice simulations. 
+ For FOXSI-4, I work on the Quad-Timepix3 detector, which will be one of many detectors positioned on the rocket. Hard X-ray detectors for solar physics are essential as high energy solar activity--such as flares--will emit X-rays. As a junior specialist working on these detectors, my responsibility includes characterization and calibration, PCB development, design, and delivering a working assembly to be fixed to the rocket's focal plane. I work primarily in python, developing software to read and visualize data. Control of the detector's data acquisition is scripted in both python and C/C++. When designing mechanical and electrical components, I heavily utilize open-source engineering software such as KiCAD or pspice simulations. 
  </div> 
  
+
+
+<hr width="100%"
+    size="10"
+    align="center">
 </body>
 </html>
 
