@@ -2,8 +2,11 @@
 permalink: /padre/
 title: "PADRE"
 sidebar:
-    title: "Projects"
-    nav: sidebar-projects
+    title: "Research"
+    nav: sidebar-Research
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/splash_banner.jpg
 classes: wide
 ---
 
@@ -21,34 +24,39 @@ classes: wide
 </head>
 <body>
 
-<h2>Solar PolArization and Directivity X-Ray Experiment</h2>
+<h2>Timepix3 on PADRE</h2>
 
 <style> 
   img {  
     width: 350px; 
     float: left; 
-    margin-right: 10px; 
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 5px;
   } 
 </style> 
  
 <img src="/assets/images/padre_logo.png" alt = "logo" /> 
 <div> 
-<a href = "https://ui.adsabs.harvard.edu/abs/2021AAS...23831309M/abstract" >PADRE </a> is an upcoming mission in joint with Solar Orbiter which will observe the sun in hard X-ray. Two experiments ride on the low-earth-orbit 12U Cubesat, SHARP, and XDSOX. They are to make a determination of the angular distribution of flare-accelerated electrons. Coordinated observations with Solar Orbiter/STIX allow for the opportunity to make stereoscopic X-ray observations and, for the first time, measure the electron anisotropy of individual flares confidently. 
+Solar PolArization and Directivity X-Ray Experiment or <a href = "https://ui.adsabs.harvard.edu/abs/2021AAS...23831309M/abstract" >PADRE </a> is an upcoming mission in joint with Solar Orbiter which will observe the sun in hard X-ray. The PI is Dr. Juan Carlos Martinez Oliveros. 
+<br>
+<br>
+Two experiments ride on the low-earth-orbit 12U Cubesat, SHARP, and MeDDEA. They are to make a determination of the angular distribution of flare-accelerated electrons. Coordinated observations with Solar Orbiter/STIX allow for the opportunity to make stereoscopic X-ray observations and, for the first time, measure the electron anisotropy of individual flares confidently. 
 </div> 
 
-<br>
-<br>
-<br>
-
-    <hr width="50%"
-        size="10"
-        align="center">
-        
+<h2 align ="right"> SHARP Instrument</h2>        
 <img src="/assets/images/padre_inst.png" alt=" logo " style="float: right; margin-right: 15px;">
 <div> 
-6 Quad Timepix2 detectors will be positioned on PADRE's SHARP (Solar HArd x-Ray Polimiter) experiment. They will be tiled about a beryllium scatter rod. Although Timepix3 is used for FOXSI, the timepix2 chip for PADRE has lots of overlap between the ASIC functions and has been chosen as a more appropriate chip for the detectors based on mission needs.
+
+<br>
+<br>
+6 Quad Timepix3 detectors will be positioned on PADRE's SHARP (Solar HARd X-ray Polarimeter experiment. They will be tiled about a beryllium scatter rod. For this project I am the lead for the calibration and integration, and work with Dr. Anton Tremsin who leads the ASIC development. I also assist in the development of the HVPS for the suite.  
+
 </div> 
- 
+     <hr width="100%"
+        size="10"
+        align="center">
+
 </body>
 </html>
 
