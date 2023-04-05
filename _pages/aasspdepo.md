@@ -48,7 +48,7 @@ efforts, as well as create solar physics careers accessible to students, as well
  In addition, activities and outreach prioritize the involvement and contribution of and to the communities of underrepresented minorities in the field, especially those local to an AAS/SPD meeting host city. I have been a member since October 2022, and look forward to sharing our projects and events coming in 2023 and beyond!   
 <br>
 <br>
-Learn more <a href = "https://spd.aas.org/education/spd-outreach">here</a>. 
+Learn more <a href = "https://spd.aas.org/about/officers-and-committees/#epo">here</a>. 
 
 </div> 
 
