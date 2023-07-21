@@ -8,8 +8,7 @@ header:
 <hr>
 <b> Publications:</b>
 <hr>
-Perez-Piel, S. S., Buitrago-Casas, J. C., Mart&iacute;nez Oliveros, J. C., Lindsey, C., “Transient
-Acoustic Emission from a Source Submerged beneath the Flare of 2014-02-07,” ApJ in preparation.
+Perez-Piel, S. S., Buitrago-Casas, J. C., Mart&iacute;nez Oliveros, J. C., Lindsey, C., “Temporal Defocusing as a Depth Diagnostic of Submerged Sources of Transient Acoustic Emission from Solar Flares,” Solar Physics Volume 298, Issue 6, article id.77 <a href="https://doi.org/10.1007/s11207-023-02163-0">https://doi.org/10.1007/s11207-023-02163-0</a>  
  <br>
  <br>
  
