@@ -17,7 +17,7 @@ title: Sav's Solar Science
 email: 
 masthead_title: " "
 description: >- # this means to ignore newlines until "baseurl:"
-  Savannah Sky Perez-Piel; Documenting my career as a heliophysicist and future PhD student. Check out my projects here! 
+  Savannah Sky Perez-Piel; Documenting my career as a heliophysicist. Check out my projects here! 
    
 twitter_username: SolarSav
 github_username: savsky95
@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Savannah Sky Perez-Piel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Heliophysicist and future PhD student. "
+  bio    : "Heliophysics and Detector Physics. "
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
