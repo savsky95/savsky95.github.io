@@ -38,7 +38,7 @@ sidebar:
 ---
 <p>I primarily work in heliophysics, <em>focusing on both instrumentation and computational methods.</em></p>  
 <hr>  
-<p>Currently, I am the Co-PI of the FOXSI-5 sounding rocket (website coming soon) and lead the Timepix Instrument Team. I also serve as the detector calibration and integration lead for the <a href="https://padre.ssl.berkeley.edu/">PADRE CubeSat</a>. Previously, I was the Timepix detector lead for the <a href="https://foxsi.umn.edu/launches/foxsi-4">FOXSI-4 sounding rocket</a>. </p>  
+<p>Currently, I am a Co-PI of the FOXSI-5 sounding rocket (website coming soon) and lead the Timepix Instrument Team. I also serve as the detector calibration and integration lead for the <a href="https://padre.ssl.berkeley.edu/">PADRE CubeSat</a>. Previously, I was the Timepix detector lead for the <a href="https://foxsi.umn.edu/launches/foxsi-4">FOXSI-4 sounding rocket</a>. </p>  
 
 <p>My computational work includes helioseismology research, where I study submerged acoustic transients of the Sun and other solar phenomena. I am a member of the <a href="https://www.ssl.berkeley.edu/sun-heliophysics/">Solar & Heliospheric Group at the Space Sciences Lab</a> and collaborate with the <a href="https://coffies.stanford.edu/">COFFIES NASA Drive Center</a>.</p>
 
