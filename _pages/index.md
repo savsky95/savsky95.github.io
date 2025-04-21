@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Under Maintenance"
+permalink: /
 ---
 
-# 🚧 Site Under Maintenance 
+# 🚧 Site Under Maintenance
 
-We're doing some updates. Check back soon!
+We’ll be back soon!
